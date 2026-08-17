@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #EBD6FB;
+}
+
+.container{
+    width: 1200px;
+    height: 800px;
+    background-color: lightblue;
+    margin:80px auto ;
+}
+
+.box{
+    width: 600px;
+    height: 200px;
+    background: #7e45a8;
+}
+
+.box_container{
+    display: flex;
+}
+
+.box1{
+    background-color: slateblue;
+}
+
+.box2{
+    background-color: purple;
+}
+
+.box3{
+    background-color: #7e45a8;
+}
+.box4{
+    background-color: black;
+}
+
+.box5{
+    background-color: white;
+}
+
+.box6{
+    background-color: aquamarine;
+}
+
+.box7{
+    background-color: firebrick;
+}
+
+.box8{
+    background-color: cyan;
+}
